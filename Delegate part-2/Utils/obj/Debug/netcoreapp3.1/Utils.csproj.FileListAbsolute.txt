@@ -1,0 +1,10 @@
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/Utils/bin/Debug/netcoreapp3.1/Utils.deps.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/Utils/bin/Debug/netcoreapp3.1/Utils.dll
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/Utils/bin/Debug/netcoreapp3.1/Utils.pdb
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/Utils/obj/Debug/netcoreapp3.1/Utils.csproj.AssemblyReference.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/Utils/obj/Debug/netcoreapp3.1/Utils.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/Utils/obj/Debug/netcoreapp3.1/Utils.AssemblyInfoInputs.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/Utils/obj/Debug/netcoreapp3.1/Utils.AssemblyInfo.cs
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/Utils/obj/Debug/netcoreapp3.1/Utils.csproj.CoreCompileInputs.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/Utils/obj/Debug/netcoreapp3.1/Utils.dll
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/Utils/obj/Debug/netcoreapp3.1/Utils.pdb

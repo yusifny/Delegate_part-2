@@ -1,0 +1,17 @@
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/IEntity_interface/bin/Debug/netcoreapp3.1/IEntity_interface
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/IEntity_interface/bin/Debug/netcoreapp3.1/IEntity_interface.deps.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/IEntity_interface/bin/Debug/netcoreapp3.1/IEntity_interface.runtimeconfig.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/IEntity_interface/bin/Debug/netcoreapp3.1/IEntity_interface.runtimeconfig.dev.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/IEntity_interface/bin/Debug/netcoreapp3.1/IEntity_interface.dll
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/IEntity_interface/bin/Debug/netcoreapp3.1/IEntity_interface.pdb
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/IEntity_interface/bin/Debug/netcoreapp3.1/Utils.dll
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/IEntity_interface/bin/Debug/netcoreapp3.1/Utils.pdb
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/IEntity_interface/obj/Debug/netcoreapp3.1/IEntity_interface.csproj.AssemblyReference.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/IEntity_interface/obj/Debug/netcoreapp3.1/IEntity_interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/IEntity_interface/obj/Debug/netcoreapp3.1/IEntity_interface.AssemblyInfoInputs.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/IEntity_interface/obj/Debug/netcoreapp3.1/IEntity_interface.AssemblyInfo.cs
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/IEntity_interface/obj/Debug/netcoreapp3.1/IEntity_interface.csproj.CoreCompileInputs.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/IEntity_interface/obj/Debug/netcoreapp3.1/IEntity_interface.csproj.CopyComplete
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/IEntity_interface/obj/Debug/netcoreapp3.1/IEntity_interface.dll
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/IEntity_interface/obj/Debug/netcoreapp3.1/IEntity_interface.pdb
+/Users/ilkinibrahimov/Desktop/Visual Studio/IEntity_interface/IEntity_interface/obj/Debug/netcoreapp3.1/IEntity_interface.genruntimeconfig.cache
